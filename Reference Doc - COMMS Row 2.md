@@ -75,6 +75,6 @@
 - From VCS Manuals Book 6
 - ![](attachment/ce719de4bc825f01b9a30c9d994bc63d.png)
 
-### ECPU 
+### ECPU 02 AC Variant-04
 - From VCS Manuals Book 6
 - ![](attachment/6b432702adad8499609767797827897a.png)
