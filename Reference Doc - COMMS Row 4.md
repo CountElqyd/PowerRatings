@@ -1,16 +1,21 @@
-# MCL01
-### Eaton APR48
-- Supply for RML3,RML4,RML7
-- https://www.eaton.com/content/dam/eaton/products/backup-power-ups-surge-it-power-distribution/backup-power-ups/avaya-solutions/avaya-apr48-apu48-rectifier-product-information.pdf
-- ![](attachment/fbfb6b09a971cc231fc551e7a559df42.png)
+# MCL02
+### Loop Telecom AM3440CHCJ-G
+- MUX Manuals Book4
+- ![](attachment/3126c704e05ae67aaf925df1a8685054.png)
 
-
-### NetPerformer SDM-9220
+### NetPerformer SDM-9230
 - MUX Manuals Book4
 - ![](attachment/1e1fcde65e14fb70652d94591cec51a0.png)
 
+### pLines pLinesES4-8
+- https://www.acoutronic.se/pdf/embedded_systems/IC_DS_pLinesE48.pdf
+- ![](attachment/0a44dd774f001c70efe728d058d22419.png)
 
-# MUX01
+### Cisco Catalyst WS-C3560-24TS-S
+- https://www.andovercg.com/datasheets/cisco-3560-catalyst-datasheet.pdf
+- ![](attachment/c4bd038a1a8bc4bf2cfe1caea84b60ea.png)
+
+# MUX02
 ### Skyedge II VSAT Modem
 - from VSAT Manuals book 5
 - ![](attachment/fa75e62f0e2831e3aa0a355391841804.png)
@@ -18,7 +23,6 @@
 ### V3G1 NetPerformer SDM-9230
 - MUX Manuals Book4
 - ![](attachment/1e1fcde65e14fb70652d94591cec51a0.png)
-
 
 ### RSS Switch
 - MUX Manuals Book4
@@ -33,12 +37,8 @@
 - MUX Manuals Book4
 - ![](attachment/dec7ca203515eee61d0b9147ba6bcb68.png)
 
-### Intel Corporation SERVER SYSTEM LC BOARD (R1304BTLSFANR)
-- MUX Manuals Book4
-- ![](attachment/43176e586c388bb60be647a3314f0c6a.png)
 
-
-# VSAT
+# VSAT02
 ### MCR Multi Channel Receiver 563000
 - VSAT Manuals Book 5
 - ![](attachment/ce05cb379f0e22763c44642bd8500927.png)
@@ -90,19 +90,48 @@
 - ![](attachment/3f64472a3fcd3a9fa61accb2e9a3e61d.png)
 
 
-# VHF3, VHF2, VHF1
-### ParkAir T6R Receiver
-- VHF Manuals Book 4
-- ![](attachment/b40a42c5b1c92eb7278c494267f8baa9.png)
+# ADSB
+### Transmitter Module AX680
+- ADSB References Book 1
+- ![](attachment/c14f7b06d1dbaffcbc5a0d015b76ca0e.png)
 
-### ParkAir T6T Transmitter 50W
-- VHF Manuals Book 4
-- ![](attachment/ee03287925d962847c7e788e70cd2eca.png)
 
-### TPLink TL-SF1016
-- https://www.tp-link.com/us/business-networking/unmanaged-switch/tl-sf1016/#specifications
-- ![](attachment/80dd6eea33069e78790ea34ffe4bc50a.png)
+### Cisco SG300-20 Managed Switch
+- https://www.voipsupply.com/downloads/dl/file/id/150/cisco_300_series_switches_datasheet.pdf
+- ![](attachment/aa2b42da81522bc6190be5b8c5c7e25e.png)
 
-### Cisco Small Business SR224
-- http://www.telecomdatasheets.com/ddata/359.pdf
-- ![](attachment/beebbe9a83e388676f390e5a550d69e7.png)
+# GSMS
+### RAIM-DA-001-NEC N8100-1725F
+- from GSMS Manuals Book 1_ Functional Baseline
+- ![](attachment/d79cceb3358e3e2f43b682a45e4468a2.png)
+
+### RAIM-CS-001 N8100-1725F
+- from GSMS Manuals Book 1_ Functional Baseline
+- ![](attachment/d79cceb3358e3e2f43b682a45e4468a2.png)
+
+### External Removable Disk Imation RDX-USB-EXT-DOCK
+- from GSMS Manuals Book 1_ Functional Baseline
+- ![](attachment/74befd3b6ff96df08dc3df00d722c7ce.png)
+
+### Cisco Catalyst WS-2960G-24TC-L
+- from GSMS Manuals Book 1_ Functional Baseline
+- ![](attachment/48a05e627ad13c0a087bbcec10e38a37.png)
+
+### Firewall CPAP-SG578
+- from GSMS Manuals Book 1_ Functional Baseline
+- ![](attachment/06a0c2d8cd7ba16d0cfbe2d47f480ea6.png)
+
+
+### Console Unit N8143-69F
+- from GSMS Manuals Book 1_ Functional Baseline
+- ![](attachment/82ce2bdb5e68b324fd29f20536f19ccc.png)
+
+
+# MISC
+### Cisco Catalyst WS-2960G-24TC-L
+- from GSMS Manuals Book 1_ Functional Baseline
+- ![](attachment/48a05e627ad13c0a087bbcec10e38a37.png)
+
+### L-Band Satellite Modem CDM-570A/L-IPEN Satellite Modem
+- http://www.comtechefdata.com/files/datasheets/ds-cdm570A-L-IPEN.pdf
+- ![](attachment/0ca6c56077b8eb970702bfe1cc70dbb2.png)
